@@ -2,7 +2,7 @@
 
 Triggered by the lack of proper data analysis tools at work, I got interested in using <b>Jupyter Lab / Jupyter Notebooks</b> 
 to extract relvant insights from data in a number of different contexts. 
-<p>I had no absolutely no idea about Python (<em>'the Swiss Army Knive of programming languages'</em>), when I took the first steps in this journey starting in December 2020.<br> 
+<p>I had absolutely no idea about Python (<em>'the Swiss Army Knive of programming languages'</em>), when I took the first steps in this journey starting in December 2020.<br> 
     &ensp;Despite having no formal background in software development, within a few months, I learned to use Jupyter Lab effectively as a tool to get critical data-related tasks done 
     within a fraction of the time it took me in the past with the 'help' of traditional commercial software.</p></p>
 
